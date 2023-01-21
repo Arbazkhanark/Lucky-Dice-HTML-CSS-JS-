@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: antiquewhite;
+}
+
+.head{
+    text-align: center;
+    padding: 10px;
+    margin:10px 0 10px 0;
+}
+/* .heading1{
+    width: 50%;
+    text-align: center;
+}
+.heading2{
+    width: 50%;
+    text-align: center;
+} */
+.dice-area{
+
+    display: inline-block;
+    width: 500px;
+    margin: 70px 50px 10px 50px;
+}
