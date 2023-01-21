@@ -55,3 +55,11 @@ footer span{
     100% {background-color: #D3756B; left: 200px; top: 0px;}
     /* 100% {background-color: red; left: 0px; top: 0px;} */
 }
+
+
+h1 {
+    Font-Size: 50px;
+    Font-Family: 'Sigmar One', Cursive;
+    Cursor: Pointer;
+    Width: 100%;
+}
